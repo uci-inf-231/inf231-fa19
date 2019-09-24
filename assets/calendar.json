@@ -32,61 +32,75 @@
 			"title": "Contextual Inquiry, Design Research"
 		},
 		{
-			"date": "2019-10-04",
+			"date": "2019-10-08",
 			"type": "project",
 			"title": "Project Proposal",
 			"anchor": "proposal",
-			"link": {"document": "https://canvas.eee.uci.edu/courses/14619/assignments/275387", "presentation": "https://canvas.eee.uci.edu/courses/14619/assignments/275390"}
+			"link": {"document": "https://canvas.eee.uci.edu/courses/18236/assignments/377089", "presentation": "https://canvas.eee.uci.edu/courses/18236/assignments/377090"}
 		},
 		{
 			"date": "2019-10-08",
 			"type": "class",
-			"title": "Other Needfinding Methods"
+			"title": "Presentations on Project Proposals"
 		},
 		{
 			"date": "2019-10-10",
 			"type": "class",
-			"title": "Critique"
+			"title": "Other Needfinding Methods"
 		},
 		{
 			"date": "2019-10-15",
 			"type": "class",
-			"title": "Task Analysis"
+			"title": "Critique"
 		},
 		{
 			"date": "2019-10-17",
 			"type": "class",
-			"title": "Storyboarding and Video Prototyping"
+			"title": "Task Analysis"
+		},
+		{
+			"date": "2019-10-22",
+			"type": "project",
+			"title": "Formative Component",
+			"anchor": "formative",
+			"link": {"document": "https://canvas.eee.uci.edu/courses/18236/assignments/377087", "presentation": "https://canvas.eee.uci.edu/courses/18236/assignments/377088"}
 		},
 		{
 			"date": "2019-10-22",
 			"type": "class",
-			"title": "Usability Evaluation"
+			"title": "Presentations on Formative Components"
 		},
 		{
 			"date": "2019-10-24",
 			"type": "class",
-			"title": "Inspection and Heuristics"
+			"title": "Storyboarding and Video Prototyping"
 		},
 		{
 			"date": "2019-10-29",
 			"type": "class",
-			"title": "Summative Evaluations"
+			"title": "Usability Evaluation"
 		},
 		{
 			"date": "2019-10-31",
 			"type": "class",
-			"title": "Human Performance"
+			"title": "Inspection and Heuristics"
 		},
 		{
 			"date": "2019-11-05",
 			"type": "class",
-			"title": "Principles Beyond the Desktop"
+			"title": "Summative Evaluations"
+		},
+		{
+			"date": "2019-11-07",
+			"type": "project",
+			"title": "Design Component",
+			"anchor": "design",
+			"link": {"document": "https://canvas.eee.uci.edu/courses/18236/assignments/377299", "presentation": "https://canvas.eee.uci.edu/courses/18236/assignments/377300"}
 		},
 		{
 			"date": "2019-11-07",
 			"type": "class",
-			"title": "Designing for Diverse Needs"
+			"title": "Critiques of Design Components"
 		},
 		{
 			"date": "2019-11-12",
@@ -95,18 +109,23 @@
 		},
 		{
 			"date": "2019-11-14",
-			"type": "class",
-			"title": "History"
+			"type": "absence",
+			"title": "Daniel Away, CCC Workshop"
 		},
 		{
 			"date": "2019-11-19",
 			"type": "class",
-			"title": "TBD"
+			"title": "Human Performance"
+		},
+		{
+			"date": "2019-11-21",
+			"type": "class",
+			"title": "Principles Beyond the Desktop"
 		},
 		{
 			"date": "2019-11-26",
 			"type": "class",
-			"title": "TBD"
+			"title": "Designing for Diverse Needs"
 		},
 		{
 			"date": "2019-11-28",
@@ -115,13 +134,40 @@
 		},
 		{
 			"date": "2019-12-03",
+			"type": "project",
+			"title": "Evaluative Component",
+			"anchor": "evaluative",
+			"link": {"document": "https://canvas.eee.uci.edu/courses/18236/assignments/377301"}
+		},
+		{
+			"date": "2019-12-03",
 			"type": "class",
-			"title": "TBD"
+			"title": "History"
 		},
 		{
 			"date": "2019-12-05",
 			"type": "class",
-			"title": "TBD"
+			"title": "Wrap-Up"
+		},
+		{
+			"date": "2019-12-09",
+			"type": "project",
+			"title": "Final Poster",
+			"anchor": "finalposter",
+			"link": {"document": "https://canvas.eee.uci.edu/courses/18236/assignments/377085"}
+		},
+		{
+			"date": "2019-12-09",
+			"type": "class",
+			"title": "(Possible Date) Final Poster Session",
+			"notes": "Time TBD. Subject to student and room availability. Back-up is during the scheduled final exam block on 12/13."
+		},
+		{
+			"date": "2019-12-13",
+			"type": "project",
+			"title": "Final Report",
+			"anchor": "finalreport",
+			"link": {"document": "https://canvas.eee.uci.edu/courses/18236/assignments/377086"}
 		}
 	]
 }
