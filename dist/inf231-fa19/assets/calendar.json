@@ -29,7 +29,16 @@
 		{
 			"date": "2019-10-03",
 			"type": "class",
-			"title": "Contextual Inquiry, Design Research"
+			"title": "Contextual Inquiry, Design Research",
+			"readings":[
+				{
+					"authors": ["Hugh Beyer", "Karen Holtzblatt"],
+					"title": "Principles of Contextual Inquiry",
+					"venue":"Chapter 3 in Contextual Design: Defining Customer-Centered Systems",
+					"date": "1998",
+					"link": "https://canvas.eee.uci.edu/files/7241647/download?download_frd=1"
+				}
+			]
 		},
 		{
 			"date": "2019-10-08",
@@ -46,17 +55,60 @@
 		{
 			"date": "2019-10-10",
 			"type": "class",
-			"title": "Other Needfinding Methods"
+			"title": "Other Needfinding Methods",
+			"readings":[
+				{
+					"authors": ["IDEO"],
+					"title": "IDEO's Method Cards",
+					"venue":"Web Page",
+					"link": "https://canvas.eee.uci.edu/files/7241660/download?download_frd=1"
+				},
+				{
+					"authors": ["Louis M. Rea", "Richard A. Parker"],
+					"title": "An Overview of the Sample Survey Process",
+					"venue":"Chapters 1-3 in Designing and Conducting Survey Research: A Comprehensive Guide",
+					"date": "2005",
+					"link": "https://canvas.eee.uci.edu/files/7241666/download?download_frd=1"
+				}
+			]
 		},
 		{
 			"date": "2019-10-15",
 			"type": "class",
-			"title": "Critique"
+			"title": "Critique",
+			"readings":[
+				{
+					"authors": ["Karen Cheng"],
+					"title": "How to Survive Critique: A Guide to Giving and Receiving Feedback",
+					"venue":"ARCADE",
+					"volume":30,
+					"issue":3,
+					"date": "2012",
+					"link": "https://canvas.eee.uci.edu/files/7241648/download?download_frd=1"
+				},
+				{
+					"authors":["Sarah Gibbons"],
+					"title":"Design Critiques: Encourage a Positive Culture to Improve Products",
+					"venue":"Web Page",
+					"date":"2016",
+					"link":"https://www.nngroup.com/articles/design-critiques/",
+					"notes":"Look at the UX Critique Cheat Sheet as well as the article."
+				}
+			]
 		},
 		{
 			"date": "2019-10-17",
 			"type": "class",
-			"title": "Task Analysis"
+			"title": "Task Analysis",
+			"readings":[
+				{
+					"authors": ["Catherine Courage", "Janice (Genny) Redish", "Dennis Wixon"],
+					"title": "Task Analysis",
+					"venue":"Chapter 3 in Human-Computer Interaction: Development Process",
+					"date": "2009",
+					"link": "https://www.taylorfrancis.com/books/e/9780429139390/chapters/10.1201/9781420088892-9"
+				}
+			]
 		},
 		{
 			"date": "2019-10-22",
@@ -73,22 +125,42 @@
 		{
 			"date": "2019-10-24",
 			"type": "class",
-			"title": "Storyboarding and Video Prototyping"
+			"title": "Storyboarding and Video Prototyping",
+			"readings":[
+				{
+					"tbd":"tbd"
+				}
+			]
 		},
 		{
 			"date": "2019-10-29",
 			"type": "class",
-			"title": "Usability Evaluation"
+			"title": "Usability Evaluation",
+			"readings":[
+				{
+					"tbd":"tbd"
+				}
+			]
 		},
 		{
 			"date": "2019-10-31",
 			"type": "class",
-			"title": "Inspection and Heuristics"
+			"title": "Inspection and Heuristics",
+			"readings":[
+				{
+					"tbd":"tbd"
+				}
+			]
 		},
 		{
 			"date": "2019-11-05",
 			"type": "class",
-			"title": "Summative Evaluations"
+			"title": "Summative Evaluations",
+			"readings":[
+				{
+					"tbd":"tbd"
+				}
+			]
 		},
 		{
 			"date": "2019-11-07",
@@ -108,24 +180,87 @@
 			"title": "Daniel Away, CSCW"
 		},
 		{
+			"date": "2019-11-12",
+			"type": "class",
+			"title": "Applying UCD to Mental Health (Guest: Stephen Scheuller)",
+			"readings":[
+				{
+					"authors": ["Aaron R. Lyon", "Kelly Koerner"],
+					"title": "User-Centered Design for Psychosocial Intervention Development and Implementation",
+					"venue":"Clinical Psychology: Science and Practice",
+					"date": "2016",
+					"volume":23,
+					"issue":2,
+					"link": "https://onlinelibrary.wiley.com/doi/full/10.1111/cpsp.12154"
+				},
+				{
+					"authors": ["Svetlana Yarosh", "Stephen Matthew Scheuller"],
+					"title": "\"Happiness Inventors\": Informing Positive Computing Technologies Through Participatory Design with Children",
+					"venue":"Journal of Medical Internet Research",
+					"date": "2017",
+					"volume":19,
+					"issue":1,
+					"link": "https://www.jmir.org/2017/1/e14/"
+				}
+			]
+		},
+		{
 			"date": "2019-11-14",
 			"type": "absence",
 			"title": "Daniel Away, CCC Workshop"
 		},
 		{
+			"date": "2019-11-14",
+			"type": "class",
+			"title": "Designing for Universal Access (Guest: Stacy Branham)",
+			"readings":[
+				{
+					"authors": ["Margherita Antona", "Stavroula Ntoa", "Ilia Adami", "Constantine Stephanidis"],
+					"title":"User Requirements Elicitation for Universal Access",
+					"venue":"Chapter 15 in The Universal Access Handbook",
+					"date":"2009",
+					"link":"https://canvas.eee.uci.edu/files/7241646/download?download_frd=1"
+				},
+				{
+					"authors":["Brian Wentz", "Paul T. Jaeger", "Jonathan Lazar"],
+					"title":"Retrofitting Accessibility: The Legal Inequality of After-the-Fact Online Access for Persons with Disabilities in the United States",
+					"venue":"First Monday",
+					"volume":16,
+					"issue":11,
+					"date":"2011",
+					"link":"https://firstmonday.org/article/view/3666/3077"
+				}
+			]
+		},
+		{
 			"date": "2019-11-19",
 			"type": "class",
-			"title": "Human Performance"
+			"title": "Human Performance",
+			"readings":[
+				{
+					"tbd":"tbd"
+				}
+			]
 		},
 		{
 			"date": "2019-11-21",
 			"type": "class",
-			"title": "Principles Beyond the Desktop"
+			"title": "Principles Beyond the Desktop",
+			"readings":[
+				{
+					"tbd":"tbd"
+				}
+			]
 		},
 		{
 			"date": "2019-11-26",
 			"type": "class",
-			"title": "Designing for Diverse Needs"
+			"title": "Designing for Diverse Needs",
+			"readings":[
+				{
+					"tbd":"tbd"
+				}
+			]
 		},
 		{
 			"date": "2019-11-28",
@@ -142,7 +277,12 @@
 		{
 			"date": "2019-12-03",
 			"type": "class",
-			"title": "History"
+			"title": "History",
+			"readings":[
+				{
+					"tbd":"tbd"
+				}
+			]
 		},
 		{
 			"date": "2019-12-05",
