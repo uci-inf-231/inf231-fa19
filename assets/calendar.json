@@ -15,22 +15,7 @@
 		{
 			"date": "2019-10-01",
 			"type": "class",
-			"title": "Design Diamond",
-			"readings":[
-				{
-					"authors": ["British Design Council"],
-					"title": "The Design Process: What is The Double Diamond?",
-					"venue":"Web Page",
-					"date": "2005",
-					"link": "https://www.designcouncil.org.uk/news-opinion/design-process-what-double-diamond",
-					"notes":"Please read the four design method steps as well as the main page."
-				}
-			]
-		},
-		{
-			"date": "2019-10-03",
-			"type": "class",
-			"title": "Contextual Inquiry, Design Research",
+			"title": "Contextual Inquiry",
 			"readings":[
 				{
 					"authors": ["Hugh Beyer", "Karen Holtzblatt"],
@@ -38,6 +23,26 @@
 					"venue":"Chapter 3 in Contextual Design: Defining Customer-Centered Systems",
 					"date": "1998",
 					"link": "https://canvas.eee.uci.edu/files/7241647/download?download_frd=1"
+				}
+			]
+		},
+		{
+			"date": "2019-10-03",
+			"type": "class",
+			"title": "Other Needfinding Methods",
+			"readings":[
+				{
+					"authors": ["IDEO"],
+					"title": "IDEO's Method Cards",
+					"venue":"Web Page",
+					"link": "https://canvas.eee.uci.edu/files/7241660/download?download_frd=1"
+				},
+				{
+					"authors": ["Louis M. Rea", "Richard A. Parker"],
+					"title": "An Overview of the Sample Survey Process",
+					"venue":"Chapters 1-3 in Designing and Conducting Survey Research: A Comprehensive Guide",
+					"date": "2005",
+					"link": "https://canvas.eee.uci.edu/files/7241666/download?download_frd=1"
 				}
 			]
 		},
@@ -56,20 +61,14 @@
 		{
 			"date": "2019-10-10",
 			"type": "class",
-			"title": "Other Needfinding Methods",
+			"title": "Sketching",
 			"readings":[
 				{
-					"authors": ["IDEO"],
-					"title": "IDEO's Method Cards",
-					"venue":"Web Page",
-					"link": "https://canvas.eee.uci.edu/files/7241660/download?download_frd=1"
-				},
-				{
-					"authors": ["Louis M. Rea", "Richard A. Parker"],
-					"title": "An Overview of the Sample Survey Process",
-					"venue":"Chapters 1-3 in Designing and Conducting Survey Research: A Comprehensive Guide",
-					"date": "2005",
-					"link": "https://canvas.eee.uci.edu/files/7241666/download?download_frd=1"
+					"authors": ["Bill Buxton"],
+					"title": "The Anatomy of Sketching",
+					"venue":"Chapter 9 in Sketching User Experiences: Getting the Design Right and Getting the Right Design",
+					"date": "2007",
+					"link": "https://canvas.eee.uci.edu/files/7249990/download?download_frd=1"
 				}
 			]
 		},
