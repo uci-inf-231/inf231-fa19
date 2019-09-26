@@ -14,13 +14,12 @@
    <p>Course staff will be made available to meet and provide early feedback as desired.</p>
    <p>Meeting is optional. You can also email to request feedback or inquire about arranging another time to meet.</p>
    <h2>Project Deliverables</h2>
-   <p>Project deliverables are defined in terms of a <em>proposal</em>, a <em>milestone</em>, a <em>final poster</em>, and a <em>final report</em>. These are due:</p>
+   <p>Project deliverables are defined in terms of a <em>proposal</em>, a <em>milestone</em>, a <em>final poster</em>, and a <em>final report</em>. These are due the night before class (11:59pm) on:</p>
    <ul>
       <li *ngFor="let project of projects">
          {{project.title}}: {{project.dueShort}}
       </li>
    </ul>
-   <p></p>
    <h3 id="proposal">Project Proposal</h3>
    <p>Your proposal will define your initial plan for this project. You can and should update this plan based on feedback, progress, and findings. But the proposal needs to demonstrate a robust initial plan for your project.</p>
    <p>Projects <em>must</em> have a formative, design, and evaluative component. It might be helpful to read the subsequent sections (<a routerLink="./" fragment="formative">formative</a>, <a routerLink="./" fragment="design">design</a>, <a routerLink="./" fragment="evaluative">evaluative</a>) to get a sense of whether your project idea will fit the course's requirements.</p>
@@ -28,6 +27,9 @@
    <h4>Document</h4>
    <p>Prepare a 1 page document addressing the following points:</p>
    <ul>
+      <li>
+         Your team members
+      </li>
       <li>
          The problem: What is the pain point you're looking to solve in your design? Who is the target audience, and why are they using it?
       </li>
@@ -42,8 +44,8 @@
       </li>
    </ul>
    <h4>Presentation</h4>
-   <p>Prepare a presentation consisting of 3 to 4 slides. Each group will give a short in-class presentation the week following the proposal.</p>
-   <p>This is an opportunity for feedback from staff and classmates. Your presentation should cover the same information as the document. The primary goal is feedback, not a formal presentation. Please be appropriately candid, thoughtful, and engaged.</p>
+   <p>Prepare a roughly 5-minute presentation. Be sure to highlight the problem you are planning to tackle and how you are planning to approach each component, to the extent that you know.</p>
+   <p>This presentation can be fairly informal. The primary goal of this presentation is feedback, and it is understood that you may not yet know how you are approaching each component. Please be appropriately candid, thoughtful, and engaged.</p>
    <h4>Submission</h4>
    <span *ngFor="let project of projects">
       <div *ngIf="project.anchor == 'proposal'">
@@ -63,17 +65,17 @@
    <p>The course staff is happy to offer guidance in choosing an appropriate formative method. As you will need to evaluate your design with your target population, we encourage methods which involve directly engaging with potential users. However, formative methods sometimes take the form of observing people's discussion via public records (e.g., social media activity, forum discussions, product and app reviews). These methods may be used if they are more appropriate to understand the pain point outlined in the project proposal.</p>
    <p>The formative assessment does not need to be at the rigor required for a research publication, but must be enough to start to suggest some design directions. For example, it may be sufficient to survey 20-30 people (publications often survey hundreds), conduct inquiries or interviews with 2-3 people (10-30 is typical), or conduct a single focus group with a 3-4 people (5 or more small groups is common).</p>
    <h4>Document</h4>
-   <p>Prepare a 2-page document (or less) addressing the following points:</p>
+   <p>Prepare a roughly 2-page document addressing the following points:</p>
    <ul>
       <li>Re-state the pain point you are looking to understand and address.</li>
       <li>Describe the target population broadly and the sample of people you studied in this stage.</li>
       <li>Explain your method and why you selected that method.</li>
       <li>Describe what you learned from your formative assessment and how that will impact your design approach. Aim for at least three takeaways.</li>
    </ul>
-   <p>Feel free to include any materials relevant to your progress as an appendix (e.g., does not count toward the 2 page limit). Example materials include an interview or survey protocol or field notes from a contextual inquiry.</p>
+   <p>Feel free to include any materials relevant to your progress as an appendix (e.g., does not count toward the 2 page limit). Example materials include an interview or survey protocol, field notes from a contextual inquiry, or exemplar participant quotes.</p>
    <h4>Presentation</h4>
-   <p>Prepare a presentation consisting of 3 to 4 slides. Each group will give a short in-class presentation.</p>
-   <p>This is an opportunity for feedback from staff and classmates. Your presentation should cover the same information as the document. The primary goal is feedback, not a formal presentation. Please be appropriately candid, thoughtful, and engaged.</p>
+   <p>Prepare a roughly 5-minute presentation. Be sure your presentation re-introduces the problem, describes your target population and method, explains what you learned from your formative assessment, and articulates how that will impact your design approach.</p>
+   <p>This presentation should be moderately formal, as though it needed to stand alone as a conference or other venue. Practicing presenting in-progress and completed work to research audiences can be helpful, and this is useful opportunity for feedback from course staff and classmates. That said, <strong>there is no need to dress differently for your presentation</strong>.</p>
    <h4>Submission</h4>
    <span *ngFor="let project of projects">
       <div *ngIf="project.anchor == 'formative'">
@@ -84,7 +86,8 @@
    </span>
    <h3 id="design">Design Component</h3>
    <p>In the design component, you must develop some sort of prototype of your design. Unless otherwise discussed with the course staff, your prototype must be digital (e.g., an app, a website, a virtual reality experience). Prototypes need not be feature-complete, but should support at least two tasks motivated by the formative assessments.</p>
-   <p>You must first prototype on paper, showing at least a few sketches for screens in support of the two tasks. In discussion section, you will evaluate each other's paper prototypes. You must then translate your design to a higher-fidelity (e.g., wireframe, mockup, clickable/interactive, implemented) and incorporate feedback from your evaluation. In general, we recommend lower-fidelity designs to enable feedback to better match the design, but we acknowledge that in-progress projects may have mockup or implementation work already underway.</p>
+   <p>First, define the two (or more) tasks your design will support. Aim to align the task with real-world actions (e.g., "schedule a meeting from noon to 3pm") rather than interface actions (e.g., "use the date selections to pick 1pm and 3pm as the start and end times and push the 'schedule meeting' button"). The description should clarify what constitutes successful completion of the task.</p>
+   <p>In prototyping, you must first prototype on paper, showing at least a few sketches for screens in support of the two tasks. In discussion section, you will evaluate each other's paper prototypes. You must then translate your design to a higher-fidelity (e.g., wireframe, mockup, clickable/interactive, implemented) and incorporate feedback from your evaluation. In general, we recommend lower-fidelity designs to enable feedback to better match the design, but we acknowledge that in-progress projects may have mockup or implementation work already underway.</p>
    <p>We will not require any specific tools for prototyping, but some recommendations include:</p>
    <ul>
       <li><a href="https://balsamiq.com/">Balsamiq</a></li>
@@ -94,7 +97,7 @@
    </ul>
    <p>We acknowledge that these tools vary in price, but some are free (Adobe XD) and many have trial editions to allow for exploration.</p>
    <h4>Document</h4>
-   <p>Prepare a 4-page document (or less) addressing the following points:</p>
+   <p>Prepare a roughly 4-page document addressing the following points:</p>
    <ul>
       <li>Re-state the pain point you are looking to address and the design takeaways from your formative work.</li>
       <li>State the two (or more) tasks you are supporting, given the formative assessment.</li>
@@ -104,7 +107,8 @@
    </ul>
    <p>The page limit for this stage is intentionally higher to accomodate screenshot inclusion, but please use it as an estimate. Feel free to include any other sketches in an appendix. Similarly, if clickable or implemented prototypes are developed and publicly available, feel free to include a link.</p>
    <h4>Presentation</h4>
-   <p>Prepare a presentation consisting of 3 to 4 slides showing your higher-fidelity mockup. We will have a design critique as a class.</p>
+   <p>This presentation should describe your tasks and highlight the designs you created. It can be shorter (2-3 minutes) to provide enough time for design critique.</p>
+   <p>Since this presentation is focused on critique of in-progress design, it can again be fairly informal.</p>
    <h4>Submission</h4>
    <span *ngFor="let project of projects">
       <div *ngIf="project.anchor == 'design'">
@@ -114,13 +118,14 @@
       </div>
    </span>
    <h3 id="evaluative">Evaluative Component</h3>
-   <p>In the evaluative component, you must take your design back to your your target population for feedback. You must first make any changes to your prototype in response to the in-class design critique.</p>
+   <p>In the evaluative component, you must take your design back to your your target population for feedback. You must first make any changes to your prototype in response to the in-class design critique. Make these changes prior to starting evaluation; otherwise, you may get redundant feedback!</p>
    <p>Like in the formative component, we will not specify an evaluative method. Pick an appropriate method based on the state of the prototype and what feedback would be most useful. We strongly encourage methods which allow for conversation (e.g., interviews) over methods which only allow for one-directional feedback (e.g., surveys). Evaluations may focus only on usability (e.g., heuristic evaluation) or a mixture of usability and utility.</p>
    <p>Similar to the formative component, the evaluative assessment does not need to be at the rigor required for a research publication. For example, it is sufficient to interview with 2-3 people.</p>
    <h4>Document</h4>
-   <p>Prepare a 2-page document (or less) addressing the following points:</p>
+   <p>Prepare a roughly 3-page document addressing the following points:</p>
    <ul>
       <li>Re-state the pain point you are looking to address and include a few screenshots of your prototype.</li>
+      <li>Describe any changes you made to your design in response to the critique or further reflection.</li>
       <li>Explain your evaluation method and why you selected that method. Describe your population sample.</li>
       <li>Describe what you learned from your evaluative assessment and how could impact another phase of design or implementation. Aim for at least three takeaways.</li>
    </ul>
@@ -155,6 +160,7 @@
       <li>Description of Methods</li>
       <li>Presentation of Results</li>
       <li>Discussion / Future Work / Conclusion</li>
+      <li>References, if applicable</li>
    </ul>
    <p>Your prior reports should provide a good starting point for preparing this report. Write according to the content you have. Be appropriate thorough and precise in your presentation, but do not needlessly pad your text.</p>
    <p>Use the SIGCHI Proceedings Format: <a href="https://chi2020.acm.org/authors/chi-proceedings-format/">https://chi2020.acm.org/authors/chi-proceedings-format/</a>. You may use either Word or LaTeX to prepare your paper. Do not spend substantial time trying to correct formatting inconsistencies, just do your best.</p>
