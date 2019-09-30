@@ -16,6 +16,9 @@
 					<p *ngIf="event.readings">
 						Read the following:
 					</p>
+					<p *ngIf="event.type == 'class' && !event.readings">
+						No readings assigned.
+					</p>
 					<ul>
 						<li *ngFor="let reading of event.readings"><app-paper [paper]="reading"></app-paper></li>
 					</ul>
