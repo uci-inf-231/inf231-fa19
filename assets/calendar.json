@@ -24,7 +24,8 @@
 					"date": "1998",
 					"link": "https://canvas.eee.uci.edu/files/7241647/download?download_frd=1"
 				}
-			]
+			],
+			"slides": "assets/slides/10_01_19-contextual_inquiry.pdf"
 		},
 		{
 			"date": "2019-10-03",
@@ -35,7 +36,8 @@
 					"authors": ["IDEO"],
 					"title": "IDEO's Method Cards",
 					"venue":"Web Page",
-					"link": "https://canvas.eee.uci.edu/files/7241660/download?download_frd=1"
+					"link": "https://canvas.eee.uci.edu/files/7241660/download?download_frd=1",
+					"notes": "skim these, no need to read each one."
 				},
 				{
 					"authors": ["Louis M. Rea", "Richard A. Parker"],
@@ -44,7 +46,8 @@
 					"date": "2005",
 					"link": "https://canvas.eee.uci.edu/files/7241666/download?download_frd=1"
 				}
-			]
+			],
+			"slides": "assets/slides/10_03_19-other_needfinding.pdf"
 		},
 		{
 			"date": "2019-10-08",
@@ -61,6 +64,20 @@
 		{
 			"date": "2019-10-10",
 			"type": "class",
+			"title": "Task Analysis",
+			"readings":[
+				{
+					"authors": ["Catherine Courage", "Janice (Genny) Redish", "Dennis Wixon"],
+					"title": "Task Analysis",
+					"venue":"Chapter 3 in Human-Computer Interaction: Development Process",
+					"date": "2009",
+					"link": "https://www.taylorfrancis.com/books/e/9780429139390/chapters/10.1201/9781420088892-9"
+				}
+			]
+		},
+		{
+			"date": "2019-10-15",
+			"type": "class",
 			"title": "Sketching",
 			"readings":[
 				{
@@ -73,7 +90,7 @@
 			]
 		},
 		{
-			"date": "2019-10-15",
+			"date": "2019-10-17",
 			"type": "class",
 			"title": "Critique",
 			"readings":[
@@ -93,20 +110,6 @@
 					"date":"2016",
 					"link":"https://www.nngroup.com/articles/design-critiques/",
 					"notes":"Look at the UX Critique Cheat Sheet as well as the article."
-				}
-			]
-		},
-		{
-			"date": "2019-10-17",
-			"type": "class",
-			"title": "Task Analysis",
-			"readings":[
-				{
-					"authors": ["Catherine Courage", "Janice (Genny) Redish", "Dennis Wixon"],
-					"title": "Task Analysis",
-					"venue":"Chapter 3 in Human-Computer Interaction: Development Process",
-					"date": "2009",
-					"link": "https://www.taylorfrancis.com/books/e/9780429139390/chapters/10.1201/9781420088892-9"
 				}
 			]
 		},
@@ -235,7 +238,7 @@
 		{
 			"date": "2019-11-19",
 			"type": "class",
-			"title": "Human Performance",
+			"title": "Human Performance & Principles Beyond the Desktop",
 			"readings":[
 				{
 					"tbd":"tbd"
@@ -244,8 +247,13 @@
 		},
 		{
 			"date": "2019-11-21",
+			"type": "absence",
+			"title": "Daniel Away, NSF Panel"
+		},
+		{
+			"date": "2019-11-21",
 			"type": "class",
-			"title": "Principles Beyond the Desktop",
+			"title": "Topic TBD",
 			"readings":[
 				{
 					"tbd":"tbd"
