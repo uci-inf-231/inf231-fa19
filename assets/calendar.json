@@ -30,7 +30,7 @@
 		{
 			"date": "2019-10-03",
 			"type": "class",
-			"title": "Other Needfinding Methods",
+			"title": "Surveys",
 			"readings":[
 				{
 					"authors": ["IDEO"],
@@ -47,7 +47,7 @@
 					"link": "https://canvas.eee.uci.edu/files/7241666/download?download_frd=1"
 				}
 			],
-			"slides": "assets/slides/10_03_19-other_needfinding.pdf"
+			"slides": "assets/slides/10_03_19-survey.pdf"
 		},
 		{
 			"date": "2019-10-08",
@@ -64,6 +64,29 @@
 		{
 			"date": "2019-10-10",
 			"type": "class",
+			"title": "Other Needfinding Methods",
+			"readings":[
+				{
+					"authors": ["Kate Syuma"],
+					"title": "UX Surveys: A Quick Guide to Get the Most Out of Them",
+					"venue":"Web Page",
+					"date": "2018",
+					"link": "https://uxdesign.cc/ux-surveys-a-quick-guide-to-get-the-most-out-of-them-1889d136be6a"
+				},
+				{
+					"authors": ["Bella Martin", "Bruce Hanington"],
+					"title": "Universal methods of Design",
+					"venue":"Book",
+					"date": "2012",
+					"link": "https://canvas.eee.uci.edu/files/7307584/download?download_frd=1",
+					"notes": "Read the following: <ul><li>#06 Behaviorial Mapping (pages 17-20)</li><li>#10 Card Sorting (pages 27-28)</li><li>#24 Cultural Probes (pages 55-56)</li><li>#30 Diary Studies (pages 67-68)</li><li>#43 Focus Groups (pages 93-94)</li><li>Choose one other method addressing either design phase 1 or 2. We'll discuss these methods in class.</li></ul>"
+				}
+			],
+			"slides": "assets/slides/10_10_19-other_needfinding.pdf"
+		},
+		{
+			"date": "2019-10-15",
+			"type": "class",
 			"title": "Task Analysis",
 			"readings":[
 				{
@@ -76,9 +99,9 @@
 			]
 		},
 		{
-			"date": "2019-10-15",
+			"date": "2019-10-17",
 			"type": "class",
-			"title": "Sketching",
+			"title": "Sketching & Critique",
 			"readings":[
 				{
 					"authors": ["Bill Buxton"],
@@ -86,14 +109,7 @@
 					"venue":"Chapter 9 in Sketching User Experiences: Getting the Design Right and Getting the Right Design",
 					"date": "2007",
 					"link": "https://canvas.eee.uci.edu/files/7249990/download?download_frd=1"
-				}
-			]
-		},
-		{
-			"date": "2019-10-17",
-			"type": "class",
-			"title": "Critique",
-			"readings":[
+				},
 				{
 					"authors": ["Karen Cheng"],
 					"title": "How to Survive Critique: A Guide to Giving and Receiving Feedback",
@@ -102,14 +118,6 @@
 					"issue":3,
 					"date": "2012",
 					"link": "https://canvas.eee.uci.edu/files/7241648/download?download_frd=1"
-				},
-				{
-					"authors":["Sarah Gibbons"],
-					"title":"Design Critiques: Encourage a Positive Culture to Improve Products",
-					"venue":"Web Page",
-					"date":"2016",
-					"link":"https://www.nngroup.com/articles/design-critiques/",
-					"notes":"Look at the UX Critique Cheat Sheet as well as the article."
 				}
 			]
 		},
