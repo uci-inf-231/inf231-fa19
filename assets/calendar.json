@@ -87,16 +87,26 @@
 		{
 			"date": "2019-10-15",
 			"type": "class",
-			"title": "Task Analysis",
+			"title": "Requirement and Task Analysis",
 			"readings":[
 				{
 					"authors": ["Catherine Courage", "Janice (Genny) Redish", "Dennis Wixon"],
 					"title": "Task Analysis",
 					"venue":"Chapter 3 in Human-Computer Interaction: Development Process",
 					"date": "2009",
-					"link": "https://www.taylorfrancis.com/books/e/9780429139390/chapters/10.1201/9781420088892-9"
+					"link": "https://www.taylorfrancis.com/books/e/9780429139390/chapters/10.1201/9781420088892-9",
+					"notes": "Focus on 'Analyzing and Presenting the Data' (pages 14-20), the rest can be skimmed/skipped."
+				},
+				{
+					"authors":["Jenny Preece", "Yvonne Rogers", "Helen Sharp"],
+					"title":"Identifying Needs and Establishing Requirements",
+					"venue":"Chapter 10 in Interaction Design: Beyond Human-Computer Interaction",
+					"date": "2007",
+					"link": "https://canvas.eee.uci.edu/files/7329357/download?download_frd=1",
+					"notes": "Skim/skip 10.4 and 10.5, but read the rest."
 				}
-			]
+			],
+			"slides": "assets/slides/10_15_19-requirement_task.pdf"
 		},
 		{
 			"date": "2019-10-17",
@@ -139,7 +149,19 @@
 			"title": "Storyboarding and Video Prototyping",
 			"readings":[
 				{
-					"tbd":"tbd"
+					"authors": ["Khai N. Truong", "Gillian R. Hayes", "Gregory D. Abowd"],
+					"title": "Storyboarding: An Empirical Determination of Best Practices and Effective Guidelines",
+					"venue": "Proceedings of the Conference on Designing Interactive Systems (DIS 2006)",
+					"date":"2006",
+					"link":"https://dl.acm.org/citation.cfm?id=1142410"
+				},
+				{
+					"authors": ["Whitney Quesenbery", "Kevin Brooks"],
+					"title": "Ways to Tell Stories",
+					"venue": "Chapter 15 in Storytelling for User Experience",
+					"date": "2010",
+					"link": "https://canvas.eee.uci.edu/files/7330285/download?download_frd=1",
+					"notes": "Skim/skip 'Telling oral stories' and 'Written stories', but read the rest."
 				}
 			]
 		},
@@ -149,7 +171,13 @@
 			"title": "Usability Evaluation",
 			"readings":[
 				{
-					"tbd":"tbd"
+					"authors":["Thomas Mahatody", "Mouldi Sagar", "Christophe Kolski"],
+					"title":"State of the Art on the Cognitive Walkthrough Method, its Variants and Evolutions",
+					"venue":"International Journal of Human-Computer Interaction (IJHCI)",
+					"volume":26,
+					"issue": 8,
+					"date": "2010",
+					"link": "https://www.tandfonline.com/doi/full/10.1080/10447311003781409"
 				}
 			]
 		},
