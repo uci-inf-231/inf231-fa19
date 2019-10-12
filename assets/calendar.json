@@ -133,18 +133,6 @@
 		},
 		{
 			"date": "2019-10-22",
-			"type": "project",
-			"title": "Formative Component",
-			"anchor": "formative",
-			"link": {"document": "https://canvas.eee.uci.edu/courses/18236/assignments/377087", "presentation": "https://canvas.eee.uci.edu/courses/18236/assignments/377088"}
-		},
-		{
-			"date": "2019-10-22",
-			"type": "class",
-			"title": "Presentations on Formative Components"
-		},
-		{
-			"date": "2019-10-24",
 			"type": "class",
 			"title": "Storyboarding and Video Prototyping",
 			"readings":[
@@ -164,6 +152,18 @@
 					"notes": "Skim/skip 'Telling oral stories' and 'Written stories', but read the rest."
 				}
 			]
+		},
+		{
+			"date": "2019-10-24",
+			"type": "project",
+			"title": "Formative Component",
+			"anchor": "formative",
+			"link": {"document": "https://canvas.eee.uci.edu/courses/18236/assignments/377087", "presentation": "https://canvas.eee.uci.edu/courses/18236/assignments/377088"}
+		},
+		{
+			"date": "2019-10-24",
+			"type": "class",
+			"title": "Presentations on Formative Components"
 		},
 		{
 			"date": "2019-10-29",
