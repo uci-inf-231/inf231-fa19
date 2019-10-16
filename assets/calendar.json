@@ -152,7 +152,8 @@
 					"link": "https://canvas.eee.uci.edu/files/7330285/download?download_frd=1",
 					"notes": "Skim/skip 'Telling oral stories' and 'Written stories', but read the rest."
 				}
-			]
+			],
+			"slides":"assets/slides/10_22_19-storyboarding.pdf"
 		},
 		{
 			"date": "2019-10-24",
@@ -169,8 +170,15 @@
 		{
 			"date": "2019-10-29",
 			"type": "class",
-			"title": "Usability Evaluation",
+			"title": "Paper Prototyping & Usability Evaluation",
 			"readings":[
+				{
+					"authors": ["Carolyn Snyder"],
+					"title":"Making a Paper Prototype",
+					"venue":"Chapter 4 in Paper Prototyping: The Fast and Easy Way to Design and Refine User Interfaces",
+					"date":"2003",
+					"link": "https://canvas.eee.uci.edu/files/7419337/download?download_frd=1"
+				},
 				{
 					"authors":["Thomas Mahatody", "Mouldi Sagar", "Christophe Kolski"],
 					"title":"State of the Art on the Cognitive Walkthrough Method, its Variants and Evolutions",
@@ -188,7 +196,19 @@
 			"title": "Inspection and Heuristics",
 			"readings":[
 				{
-					"tbd":"tbd"
+					"authors":["Jakob Nielsen"],
+					"title":"10 Usability Heuristics for User Interface Design",
+					"venue":"Web Page",
+					"date":"1994",
+					"link":"https://www.nngroup.com/articles/ten-usability-heuristics/",
+					"notes":"Additionally look at the 10 heuristics applied to either video games or web applications (linked in the \"See Also\")."
+				},
+				{
+					"authors":["Jakob Nielsen", "Rolf Molich"],
+					"title":"Heuristic Evaluation of User Interfaces",
+					"venue":"Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI 1990)",
+					"date":"1990",
+					"link":"https://dl.acm.org/citation.cfm?id=97281"
 				}
 			]
 		},
@@ -198,7 +218,25 @@
 			"title": "Summative Evaluations",
 			"readings":[
 				{
-					"tbd":"tbd"
+					"authors":["Jakob Nielsen"],
+					"title":"Why You Only Need to Test with 5 Users",
+					"venue":"Web Page",
+					"date":"2000",
+					"link":"https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/"
+				},
+				{
+					"authors":["Marie-Claire Dean"],
+					"title": "5 Users Is Not Enough ☹",
+					"venue":"Web Page",
+					"date":"2015",
+					"link":"https://medium.com/designing-atlassian/5-users-is-not-enough-5c73640fd121"
+				},
+				{
+					"authors":["Katie A. Siek", "Gillian R. Hayes", "Mark W. Newman", "John C. Tang"],
+					"title":"Field Deployments: Knowing from Using in Context",
+					"venue":"Chapter 6 in Ways of Knowing in HCI",
+					"date":"2014",
+					"link":"https://link.springer.com/chapter/10.1007/978-1-4939-0378-8_6"
 				}
 			]
 		},
@@ -275,7 +313,7 @@
 		{
 			"date": "2019-11-19",
 			"type": "class",
-			"title": "Human Performance & Principles Beyond the Desktop",
+			"title": "Generalizable Design Principles",
 			"readings":[
 				{
 					"tbd":"tbd"
@@ -300,7 +338,7 @@
 		{
 			"date": "2019-11-26",
 			"type": "class",
-			"title": "Designing for Diverse Needs",
+			"title": "Human Performance & Principles Beyond the Desktop",
 			"readings":[
 				{
 					"tbd":"tbd"
