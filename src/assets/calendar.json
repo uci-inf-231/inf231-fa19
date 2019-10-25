@@ -180,15 +180,14 @@
 					"link": "https://canvas.eee.uci.edu/files/7419337/download?download_frd=1"
 				},
 				{
-					"authors":["Thomas Mahatody", "Mouldi Sagar", "Christophe Kolski"],
-					"title":"State of the Art on the Cognitive Walkthrough Method, its Variants and Evolutions",
-					"venue":"International Journal of Human-Computer Interaction (IJHCI)",
-					"volume":26,
-					"issue": 8,
-					"date": "2010",
-					"link": "https://www.tandfonline.com/doi/full/10.1080/10447311003781409"
+					"authors": ["Kathleen Gomoll"],
+					"title": "Some Techniques for Observing Users",
+					"venue": "White Paper",
+					"date": "1992",
+					"link":"https://canvas.eee.uci.edu/files/7509610/download?download_frd=1"
 				}
-			]
+			],
+			"slides":"assets/slides/10_29_19-paper_usability.pdf"
 		},
 		{
 			"date": "2019-10-31",
@@ -209,8 +208,19 @@
 					"venue":"Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI 1990)",
 					"date":"1990",
 					"link":"https://dl.acm.org/citation.cfm?id=97281"
+				},
+				{
+					"authors":["Thomas Mahatody", "Mouldi Sagar", "Christophe Kolski"],
+					"title":"State of the Art on the Cognitive Walkthrough Method, its Variants and Evolutions",
+					"venue":"International Journal of Human-Computer Interaction (IJHCI)",
+					"volume":26,
+					"issue": 8,
+					"date": "2010",
+					"link": "https://www.tandfonline.com/doi/full/10.1080/10447311003781409",
+					"notes": "Skim this reading."
 				}
-			]
+			],
+			"slides":"assets/slides/10_31_19-inspection_heuristics.pdf"
 		},
 		{
 			"date": "2019-11-05",
