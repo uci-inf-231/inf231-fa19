@@ -225,7 +225,7 @@
 		{
 			"date": "2019-11-05",
 			"type": "class",
-			"title": "Summative Evaluations",
+			"title": "High-Fidelity Prototyping & Summative Evaluations",
 			"readings":[
 				{
 					"authors":["Jakob Nielsen"],
@@ -248,7 +248,8 @@
 					"date":"2012",
 					"link":"https://canvas.eee.uci.edu/files/7442828/download?download_frd=1"
 				}
-			]
+			],
+			"slides":"assets/slides/11_05_19-hifi_summative.pdf"
 		},
 		{
 			"date": "2019-11-07",
@@ -390,10 +391,10 @@
 			"link": {"document": "https://canvas.eee.uci.edu/courses/18236/assignments/377085"}
 		},
 		{
-			"date": "2019-12-09",
+			"date": "2019-12-11",
 			"type": "class",
-			"title": "(Possible Date) Final Poster Session",
-			"notes": "Time TBD. Subject to student and room availability. Back-up is during the scheduled final exam block on 12/13."
+			"title": "Final Poster Session",
+			"notes": "Block off 2pm-5pm, specific time subject room availability. Room TBD"
 		},
 		{
 			"date": "2019-12-13",
