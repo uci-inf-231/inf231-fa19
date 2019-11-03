@@ -88,7 +88,7 @@
    <h3 id="design">Design Component</h3>
    <p>In the design component, you must develop some sort of prototype of your design. Unless otherwise discussed with the course staff, your prototype must be digital (e.g., an app, a website, a virtual reality experience). Prototypes need not be feature-complete, but should support at least two tasks motivated by the formative assessments.</p>
    <p>First, define the two (or more) tasks your design will support. Aim to align the task with real-world actions (e.g., "schedule a meeting from noon to 3pm") rather than interface actions (e.g., "use the date selections to pick 1pm and 3pm as the start and end times and push the 'schedule meeting' button"). The description should clarify what constitutes successful completion of the task.</p>
-   <p>In prototyping, you must first prototype on paper, showing at least a few sketches for screens in support of the two tasks. In discussion section, you will evaluate each other's paper prototypes. You must then translate your design to a higher-fidelity (e.g., wireframe, mockup, clickable/interactive, implemented) and incorporate feedback from your evaluation. In general, we recommend lower-fidelity designs to enable feedback to better match the design, but we acknowledge that in-progress projects may have mockup or implementation work already underway.</p>
+   <p>In prototyping, you must first prototype on paper, showing at least a few sketches for screens in support of the two tasks. You must then translate your design to a higher-fidelity (e.g., wireframe, mockup, clickable/interactive, implemented) and incorporate feedback from your evaluation. In general, we recommend lower-fidelity designs to enable feedback to better match the design, but we acknowledge that in-progress projects may have mockup or implementation work already underway. You may find it useful to conduct a heuristic evaluation or usability test of your low-fidelity prototype, but neither is required at this stage.</p>
    <p>We will not require any specific tools for prototyping, but some recommendations include:</p>
    <ul>
       <li><a href="https://balsamiq.com/">Balsamiq</a></li>
@@ -141,15 +141,13 @@
       </div>
    </span>
    <h3 id="finalposter">Final Poster</h3>
-   <p>Create a poster which summarizes the core contributions of your project and your design. Your poster should include your project title, your names, the key pain point being addressed, your design process, and your solution.</p>
-   <p>Your poster should include images and limited amounts of text. A PowerPoint template is available: <a href="/files/poster_template.pptx">Coloryzer Project PowerPoint Template</a>.</p>
-   <p>You should heavily modify the template to be unique and represent your project, but please keep the slide size and aspect ratio. During the poster session, your team will give a one-minute pitch. Your poster will be projected on a screen near you rather than be printed out.</p>
-   <p>I agree with most of the recommendations in these two guides: <a href="https://guides.nyu.edu/posters">NYU How to Create a Research Poster</a>, <a href="https://dukeahead.duke.edu/sites/dukeahead.duke.edu/files/u94/Poster%20Creation%20Presentation.pdf">Duke Creating an Academic Poster</a>.</p>
+   <p>"Poster" is a bit of a misnomer for this deliverable; we will not create physical posters because they're expensive to print and wasteful for use in a single event. Instead, create a slide deck which summarizes the core contributions of your project and your design. The slide deck should still serve the role similar to a poster: a visual aide which a passerby at a coffee break can glance at for a minute or two to get a gist of your project's goal and what you accomplished. Aim for 4-6 slides which explain your project's goals and each stage of the design. Since you may be talking with someone about your project, set up your slides to auto-advance every ~15 seconds or so and loop back to the beginning on completion.</p>
+   <p>Each team will have a monitor next to their table; you will present from your own laptop. Consider bringing a second laptop so you can show your designs to an interested persion while your slide deck continues presenting. We can provide some monitors, but if your work in DBH and have a monitor which is easy to move, please bring it to the poster session. We can provide a cart to help transport monitors.</p>
    <h4>Submission</h4>
    <span *ngFor="let project of projects">
       <div *ngIf="project.anchor == 'finalposter'">
          <p>Due {{project.dueLong}}.</p>
-         <p>Submit your poster in PDF format: <a [href]="project.link.document">{{project.link.document}}</a></p>
+         <p>Submit your poster in PDF, KEY, or PPTX format: <a [href]="project.link.document">{{project.link.document}}</a></p>
       </div>
    </span>
    <h3 id="finalreport">Final Report</h3>

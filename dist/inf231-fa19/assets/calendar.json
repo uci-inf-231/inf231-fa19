@@ -327,7 +327,20 @@
 			"title": "Generalizable Design Principles",
 			"readings":[
 				{
-					"tbd":"tbd"
+					"authors": ["Jennifer Tidwell"],
+					"title":"Preface & What Users Do",
+					"venue":"Designing Interfaces: Patterns for Effective Interaction Design",
+					"date":"2010",
+					"link":"https://canvas.eee.uci.edu/files/7591729/download?download_frd=1",
+					"notes":"Read the Preface and the beginning of Chapter 1 (through page 22 of the PDF). Pick two patterns on that page to read in more detail."
+				},
+				{
+					"authors": ["Steven Hoober", "Eric Berkman"],
+					"title":"Preface & Composition",
+					"venue":"Designing Mobile Interfaces: Patterns for Interaction Design",
+					"date":"2011",
+					"link":"https://canvas.eee.uci.edu/files/7591731/download?download_frd=1",
+					"notes":"Read the Preface and the beginning of Chapter 1 (through page 36 of the PDF). Pick two patterns on that page to read in more detail."
 				}
 			]
 		},
@@ -339,7 +352,7 @@
 		{
 			"date": "2019-11-21",
 			"type": "class",
-			"title": "Topic TBD",
+			"title": "Participatory Design (Guest: Kurt Squire)",
 			"readings":[
 				{
 					"tbd":"tbd"
@@ -349,7 +362,7 @@
 		{
 			"date": "2019-11-26",
 			"type": "class",
-			"title": "Human Performance & Principles Beyond the Desktop",
+			"title": "Human Performance",
 			"readings":[
 				{
 					"tbd":"tbd"
