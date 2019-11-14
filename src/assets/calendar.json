@@ -291,7 +291,8 @@
 					"issue":1,
 					"link": "https://www.jmir.org/2017/1/e14/"
 				}
-			]
+			],
+			"slides":"assets/slides/11_12_19-mental_health.pdf"
 		},
 		{
 			"date": "2019-11-14",
@@ -355,7 +356,18 @@
 			"title": "Participatory Design (Guest: Kurt Squire)",
 			"readings":[
 				{
-					"tbd":"tbd"
+					"authors":["Kurt D. Squire", "James G. MaKinster", "Michael Barnett", "April Lynn Luehmann", "Sasha L. Barab"],
+					"title":"Designed Curriculum and Local Culture: Acknowledging the Primacy of Classroom Culture",
+					"venue":"Wiley InterScience",
+					"date":"2003",
+					"link":"https://canvas.eee.uci.edu/files/7684892/download?download_frd=1"
+				},
+				{
+					"authors":["Clay Spinuzzi"],
+					"title":"The Methodology of Participatory Design",
+					"venue":"Technical Communication",
+					"date":"2005",
+					"link":"https://canvas.eee.uci.edu/files/7684893/download?download_frd=1"
 				}
 			]
 		},
