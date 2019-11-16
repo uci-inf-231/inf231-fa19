@@ -344,7 +344,8 @@
 					"link":"https://canvas.eee.uci.edu/files/7591731/download?download_frd=1",
 					"notes":"Read the Preface and the beginning of Chapter 1 (through page 36 of the PDF). Pick two patterns on that page to read in more detail."
 				}
-			]
+			],
+			"slides":"assets/slides/11_19_19-generalizable_design_principles.pdf"
 		},
 		{
 			"date": "2019-11-21",
@@ -378,7 +379,19 @@
 			"title": "Human Performance",
 			"readings":[
 				{
-					"tbd":"tbd"
+					"authors":["I. Scott MacKenzie"],
+					"title":"Fitts' Law as a Research and Design Tool in Human-Computer Interaction",
+					"venue":"Human-Computer Interaction",
+					"date":"1992",
+					"link":"https://doi.org/10.1207/s15327051hci0701_3",
+					"notes":"Skip/skim sections 3 and 4."
+				},
+				{
+					"authors":["Tovi Grossman", "Ravin Balakrishnan"],
+					"title":"The Bubble Cursor: Enhancing Target Acquisition by Dynamic Resizing of the Cursor's Activation Area",
+					"venue":"Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI 2005)",
+					"date":"2005",
+					"link":"https://dl.acm.org/citation.cfm?id=1055012"
 				}
 			]
 		},
