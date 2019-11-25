@@ -393,7 +393,8 @@
 					"date":"2005",
 					"link":"https://dl.acm.org/citation.cfm?id=1055012"
 				}
-			]
+			],
+			"slides":"assets/slides/11_26_19-human_performance.pdf"
 		},
 		{
 			"date": "2019-11-28",
@@ -410,7 +411,7 @@
 		{
 			"date": "2019-12-03",
 			"type": "class",
-			"title": "History",
+			"title": "HCD as a Research Method",
 			"readings":[
 				{
 					"tbd":"tbd"
@@ -420,7 +421,16 @@
 		{
 			"date": "2019-12-05",
 			"type": "class",
-			"title": "Wrap-Up"
+			"title": "HCI Tools and Wrap-Up",
+			"readings":[
+				{
+					"authors":["Brad Meyers", "Scott E. Hudson", "Randy Pausch"],
+					"title":"Past, Present, and Future of User Interface Software Tools",
+					"venue":"TOCHI",
+					"date":"2000",
+					"link":"https://dl.acm.org/citation.cfm?id=344959"
+				}
+			]
 		},
 		{
 			"date": "2019-12-09",
