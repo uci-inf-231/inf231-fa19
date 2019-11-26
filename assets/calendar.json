@@ -414,16 +414,6 @@
 			"title": "HCD as a Research Method",
 			"readings":[
 				{
-					"tbd":"tbd"
-				}
-			]
-		},
-		{
-			"date": "2019-12-05",
-			"type": "class",
-			"title": "HCI Tools and Wrap-Up",
-			"readings":[
-				{
 					"authors":["Brad Meyers", "Scott E. Hudson", "Randy Pausch"],
 					"title":"Past, Present, and Future of User Interface Software Tools",
 					"venue":"TOCHI",
@@ -431,6 +421,56 @@
 					"link":"https://dl.acm.org/citation.cfm?id=344959"
 				}
 			]
+		},
+		{
+			"date": "2019-12-05",
+			"type": "class",
+			"title": "HCD as a Research Method and Wrap-Up",
+			"readings":[
+				{
+					"authors":["Joy Kim", "Maneesh Agrawala", "Michael Bernstein"],
+					"title":"Mosaic: Designing Online Creative Communities for Sharing Works-in-Progress",
+					"venue":"CSCW",
+					"date":"2017",
+					"link":"https://dl.acm.org/citation.cfm?id=2998195"
+				},
+				{
+					"authors":["Niloufar Salehi", "Lily C. Irani", "Michael S. Bernstein", "Ali Alkhatib", "Eva Ogbe", "Kristy Milland", "Clickhappier"],
+					"title":"We Are Dynamo: Overcoming Stalling and Friction in Collective Action for Crowd Workers",
+					"venue":"CHI",
+					"date":"2015",
+					"link":"https://dl.acm.org/citation.cfm?id=2702508"
+				},
+				{
+					"authors":["Hariharan Subramonyam", "Steven M. Drucker", "Eytan Adar"],
+					"title":"Affinity Lens: Data-Assisted Affinity Diagramming with Augmented Reality",
+					"venue":"CHI",
+					"date":"2019",
+					"link":"https://dl.acm.org/citation.cfm?id=3300628"
+				},
+				{
+					"authors":["Justin Cranshaw", "Andrés Monroy-Hernández", "S. A. Needham"],
+					"title":"Journeys & Notes: Designing Social Computing for Non-Places",
+					"venue":"CHI",
+					"date":"2016",
+					"link":"https://dl.acm.org/citation.cfm?id=2858573"
+				},
+				{
+					"authors":["Tawanna R. Dillahunt", "Alex Lu"],
+					"title":"DreamGigs: Designing a Tool to Empower Low-Resource Job Seekers",
+					"venue":"CHI",
+					"date":"2019",
+					"link":"https://dl.acm.org/citation.cfm?id=3300808"
+				},
+				{
+					"authors":["Herman Saksono", "Ashwini Ranade", "Geeta Kamarthi", "Carmen Castaneda-Sceppa", "Jessica A. Hoffman", "Cathy Wirth", "Andrea G. Parker"],
+					"title":"Spaceship Launch: Designing a Collaborative Exergame for Families",
+					"venue":"CSCW",
+					"date":"2015",
+					"link":"https://dl.acm.org/citation.cfm?id=2675159"
+				}
+			],
+			"notes": "Read 2 of the above papers. Focus on how they describe formative methods, evaluative methods, and design principles. This list isn't exhaustive, but provides a few papers which incorporate formative work, a design process, and evaluation. Feel free to recommend other papers."
 		},
 		{
 			"date": "2019-12-09",
